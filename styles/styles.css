@@ -1,0 +1,40 @@
+/*
+    Web page styles for the theme park tickets calculator page.
+    Author: Fauzia Ameeri
+    File:styles.css
+    Date:1/20/21
+*/
+body {
+  background-color: sandybrown;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 0;
+}
+ 
+img{
+    margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 50px;
+  margin-left: 300px;
+}
+/* my friend "Gurave" helped me with this 4 lines */
+#formDiv{
+    margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 400px;
+}
+#formId, #result{
+  margin-left: 50px;
+}
+input, select{
+     width: 300px;
+}
+button{
+margin-left: 100px;
+width: 120px;
+}
+
